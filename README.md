@@ -1,4 +1,5 @@
-# Data-Driven-Revitalization-at-AtliQ-Grands
+# Revenue Insights in Hospitality Domain
+
 About Project:
 
  AtliQ Grands owns multiple five-star hotels across India. They have been
