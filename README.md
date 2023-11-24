@@ -10,7 +10,9 @@ Their revenue management team had decided to hire a 3rd party service provider t
 Power BI,Sql and Canva
 
 Power BI - Power Query, Dax, Data Modeling, Measures, visuals and Interactive Dashboard
+
 SQL Server - Data verification,View, Subquaries, Windows Functions, Numeric Functions etc.
+
 Canva - Documentation
 
 ⭐ FINDINGS & Insights ⭐
