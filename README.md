@@ -5,4 +5,25 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
-###⭐ TOOLS & APPROACH ⭐
+⭐ TOOLS & APPROACH ⭐
+
+Power BI,Sql and Canva
+
+Power BI - Power Query, Dax, Data Modeling, Measures, visuals and Interactive Dashboard
+SQL Server - Data verification,View, Subquaries, Windows Functions, Numeric Functions etc.
+Canva - Documentation
+
+⭐ FINDINGS & Insights ⭐
+
+* In june month, 4.8% drop in revenue! Total bookings decrease, occupancy falls, and unused capacity is on the rise.
+* Surprisingly, not the cause of the June revenue drop. Consistent cancellation rates over three months.
+* No surprises! Average ratings remain consistent throughout the project.
+* Mumbai and Bangalore consistently contribute high revenue.
+* Atliq Exotica and Atliq Palace lead in revenue, while Atliq Seasons lags behind.
+* MakeYourTrip secures the 2nd highest revenue, and an unidentified source takes the lead.
+* Clear ups and downs, with a noticeable dip in the last three weeks affecting bookings and revenue.
+*  Consistently outstanding performance, leading in revenue and maintaining a low cancellation rate.
+
+⭐ Interactive Dashboard ⭐
+
+Novypro: https://www.novypro.com/project/revenue-insights-in-hospitality-domin-power-bi
