@@ -26,4 +26,4 @@ Canva - Documentation
 
 ## Interactive Dashboard 
 
-Novypro: https://www.novypro.com/project/revenue-insights-in-hospitality-domin-power-bi
+Novypro: https://www.novypro.com/profile_projects/novyprobalajipk?Popup=memberProject&Data=1699608698971x697001693791709800
