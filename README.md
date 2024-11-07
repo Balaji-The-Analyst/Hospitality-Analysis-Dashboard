@@ -1,5 +1,7 @@
 # REVENUE INSIGHTS
 ## Sessions
 **1.Project Details**
-* d
-* 
+* Domain short description
+* Problem
+* Goal
+* Dataset Information
