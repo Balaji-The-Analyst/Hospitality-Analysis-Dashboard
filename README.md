@@ -266,4 +266,4 @@ How this Power BI Report is helpful to stakeholders:
 * Property Comparison: Stakeholders can compare key metrics like revenue, occupancy, and ratings across different properties to identify high-performing and underperforming locations.
 * Weekly Trends: The weekly trends for revenue, capacity, occupancy, and cancellations offer a dynamic view of performance, enabling timely interventions to address fluctuations.
 
-**Interactive Dashboard:** 
+**Interactive Dashboard:** https://www.novypro.com/profile_projects/novyprobalajipk?Popup=memberProject&Data=1699608698971x697001693791709800
