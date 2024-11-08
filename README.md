@@ -191,7 +191,7 @@ This KPI dashboard provides a quick overview of key hotel performance metrics. W
 
 ***2.Day Analysis:***
 
-![Day Analysis](https://github.com/user-attachments/assets/cf74fffb-9de2-426e-9d10-b3b85adec5c0)
+![Day](https://github.com/user-attachments/assets/e038c6ee-9aef-4e4d-a694-0d7d933bc145)
 
 To analyze hotel performance differences between weekdays and weekends, focusing on booking volume, revenue, occupancy, and cancellations, supporting informed decisions for resource and strategy adjustments.
 
@@ -201,7 +201,7 @@ Weekends show higher occupancy (73.58%) but fewer bookings. Weekdays have more b
 
 ***3.Revenue Contribution:***
 
-![Revenue_contribution](https://github.com/user-attachments/assets/6f546b47-9aa3-4622-b401-72cdd82fb77a)
+![Revenue_contribution](https://github.com/user-attachments/assets/664059db-35d1-4950-ac64-b724b78118be)
 
 This visual displays revenue contributions across cities, room types, booking status, and booking sources for a hotel chain.
 
@@ -211,7 +211,7 @@ Mumbai contributes the most revenue (39.13%), Luxury rooms dominate (61.61%), an
 
 ***4.Weekly Trends For KPI’s:***
 
-![Weekly Trends](https://github.com/user-attachments/assets/dcb2e8c6-d254-4a63-a20b-985feba74888)
+![Screenshot 2024-11-07 165902](https://github.com/user-attachments/assets/ee3843ee-977e-4def-8ff4-8ee7ebf2f8bf)
 
 This visual tracks weekly trends in key metrics: revenue, occupancy, capacity, and cancellation rates.
 
@@ -221,7 +221,7 @@ Occupancy rates and revenue remain stable until week 30, after which they drop s
 
 ***5.KPIs For Properties:***
 
-![Screenshot 2024-11-07 174042](https://github.com/user-attachments/assets/1f9d866f-30d3-44c3-8c37-8958c72cc37b)
+![Screenshot 2024-11-07 174042](https://github.com/user-attachments/assets/1db9b049-f458-4e49-978e-c02269f5f550)
 
 This table provides KPIs for each property, including bookings, revenue, occupancy, cancellation rates, and ratings.
 
