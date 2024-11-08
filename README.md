@@ -89,7 +89,7 @@ fact_bookings:
 ## Data/Project work (What I  did)
 ***1.Data Collection***
 
-**Data Source:** The data was downloaded in CSV format from the "codebasis" website, which contains relevant information for the project. 
+*Data Source:* The data was downloaded in CSV format from the "codebasis" website, which contains relevant information for the project. 
 
 **Import Process:** The CSV file was imported into Power BI using the Get Data feature, selecting the Folder option to load the data.
 
