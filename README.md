@@ -3,7 +3,7 @@
 **Session** 
 
     1.Project Details
-        - Domain short description
+        - Domain 
         - Problem
         - Goal
         - Dataset Information
