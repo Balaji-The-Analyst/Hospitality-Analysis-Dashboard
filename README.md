@@ -4,10 +4,10 @@
 
     1.Project Details
         - Domain 
-        - Problem
-        - Goal
-        - Dataset Information
-    2.Data work (What I  did)
+        - Problem Statement
+        - Project Goal
+        - Data Information
+    2.Data work (What I did)
         - Data collection
         - Data Cleaning
         - Data Modeling
