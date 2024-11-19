@@ -24,7 +24,7 @@ This project focuses on multiple five-star hotels offering luxury accommodations
 
 **2.Problem**
 
-A company in the hospitality industry is losing market share and revenue in the luxury and business hotel sectors. Competitor strategies and ineffective management decisions have led to a decline in performance. Without an in-house data analytics team, they lack insights from historical data, hindering their ability to make data-driven decisions to improve operations.
+A company(luxury/business hotels) in the hospitality industry is losing market share and revenue in the luxury and business hotel sectors. Competitor strategies and ineffective management decisions have led to a decline in performance. Without an in-house data analytics team, they lack insights from historical data, hindering their ability to make data-driven decisions to improve operations.
 
 **3.Goal of the project**
 
