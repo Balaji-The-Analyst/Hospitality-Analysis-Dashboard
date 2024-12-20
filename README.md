@@ -1,5 +1,5 @@
 
-# REVENUE INSIGHTS
+# Hospitality Analysis Dashboard
 **Sessions** 
 
     1. Project Details
